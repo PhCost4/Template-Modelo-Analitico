@@ -1,0 +1,10 @@
+pandas>=2.0
+numpy
+matplotlib
+seaborn
+scipy
+openpyxl        # leitura/gravação de Excel
+pyarrow         # Parquet e Feather
+sqlalchemy      # bancos (PostgreSQL, MySQL, SQL Server...); SQLite não precisa
+jupyter
+pytest          # testes
